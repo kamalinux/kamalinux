@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![kamalinux's github activity graph](https://activity-graph.herokuapp.com/graph?username=kamalinux&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![kamalinux's github activity graph](https://activity-graph.herokuapp.com/graph?username=kamalinux&theme=rogue)](https://github.com/kamalinux)
 <!--
 **kamalinux/kamalinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
